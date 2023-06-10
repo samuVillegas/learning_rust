@@ -33,9 +33,9 @@ fn main() {
         }
     }
     if attempts > 0 {
-        println!("Ganaste!");
+        println!("You won!");
     } else {
-        println!("Perdiste!");
+        println!("You lost!");
     }
 }
 
